@@ -1,14 +1,5 @@
 {
-  "name": "avtalskollen-pdf",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "private": true,
   "dependencies": {
     "fs-extra": "10.0.0",
     "pdf-merger-js": "3.2.1",
